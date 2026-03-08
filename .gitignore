@@ -1,0 +1,34 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional build directories
+build/
+dist/
+
+# Optional dotenv environment variables file
+.env
+
+# Optional production environment variables file
+.env.production
+
+# Optional production environment variables file (secure)
+.env.production.secure
+
+# Optional dotenv environment variables file (local)
+.env.local
+
+# Optional dotenv environment variables file (local, secure)
+.env.local.secure
